@@ -1,0 +1,2 @@
+# SQL-DataWarehouse-project
+Building a modern data warehouse with SQL, including ETL Processes, data modelling and analytics.
